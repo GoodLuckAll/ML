@@ -10,12 +10,9 @@
     <font color="#4590a3" size = "6px">文字</font><font color="#4590a3" size = "6px">文字</font><font color="#4590a3" size = "6px">文字</font>
     ```
 
-```
 This text is {% em %}highlighted !{% endem %}
-```
 
 ```
-
 This text is {% em %}highlighted with **markdown**!{% endem %}
 
 This text is {% em type="green" %}highlighted in green!{% endem %}
