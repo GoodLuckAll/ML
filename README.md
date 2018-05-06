@@ -4,15 +4,10 @@
 
 * #### story-like:
 
-  * When 
+  * When
 
   * ```
-    <
-    ```
-
-    ```
-    font color=
-    "red"
+    <font color="red"
     >
     紅色字體
     <
