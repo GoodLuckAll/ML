@@ -6,7 +6,7 @@
 
   * When
 
-  * 
+  * <font color="red">紅色字體</font>
     
 
 This text is {% em %}highlighted !{% endem %}
