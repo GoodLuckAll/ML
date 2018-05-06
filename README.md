@@ -6,7 +6,7 @@
 
   * When
 
-  * &lt;font color="red"&gt; 紅色字體 &lt;/font&gt;
+  * `<font color="red"> 紅色字體 </font>`
 
 
 
