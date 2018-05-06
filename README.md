@@ -6,8 +6,7 @@
 
   * When
 
-  * 
-    ```js
+  * ```
     <font color="red"> 紅色字體 </font>
     ```
 
