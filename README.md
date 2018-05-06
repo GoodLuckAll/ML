@@ -6,8 +6,17 @@
 
   * When
 
-  * <font color="red">紅色字體</font>
+  * 
     
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <font color="red">紅色字體</font>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 
 This text is {% em %}highlighted !{% endem %}
 
