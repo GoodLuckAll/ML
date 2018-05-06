@@ -1,8 +1,24 @@
-# My Awesome Book
+# Lecture 1: The Learning Problem
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+### Foundation Oriented ML Course
 
+* #### story-like:
 
+  * When 
+
+  * ```
+    <
+    ```
+
+    ```
+    font color=
+    "red"
+    >
+    紅色字體
+    <
+    /font
+    >
+    ```
 
 
 
