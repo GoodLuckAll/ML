@@ -20,8 +20,6 @@
 
 <font color="red">紅色字體</font>
 
-
-
 ``` html
 <p>test</p>
 <font color="red">紅色字體</font>
