@@ -18,6 +18,32 @@
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
+<html>
+<head>
+<style>
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 14px;
+}
+</style>
+</head>
+<body>
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+</body>
+</html>
+
 <font color="blue">讓我變成藍色的字<font>
 
 <font color="green">紅色字體</font>
