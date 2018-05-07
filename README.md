@@ -22,6 +22,15 @@ Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lo
 </body>
 </html>
     
+<html>
+<body>
+
+<h1 style="color:blue;">This is a Blue Heading</h1>
+
+</body>
+</html>
+
+    
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
