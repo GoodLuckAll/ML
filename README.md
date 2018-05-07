@@ -96,6 +96,39 @@ This text is {% em type="green" %}highlighted in green!{% endem %}
 This text is {% em type="red" %}highlighted in red!{% endem %}
 
 This text is {% em color="#ff0000" %}highlighted with a custom color!{% endem %}
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+
+
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
 
 
 
