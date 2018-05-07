@@ -18,6 +18,11 @@
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
+``` html
+<p>test</p>
+<font color="red">紅色字體</font>
+```
+
 This text is {% em %}highlighted !{% endem %}
 
 
