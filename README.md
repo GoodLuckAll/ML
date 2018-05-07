@@ -18,6 +18,10 @@
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
+<font color="red">紅色字體</font>
+
+
+
 ``` html
 <p>test</p>
 <font color="red">紅色字體</font>
