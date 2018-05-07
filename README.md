@@ -18,7 +18,8 @@
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-<font color="blue">讓我變成藍色的字</font>
+<font color="blue">讓我變成藍色的字<font>
+
 <font color="green">紅色字體</font>
 
 ``` html
