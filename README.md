@@ -18,7 +18,7 @@
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-<font color="red">紅色字體</font>
+<font color="green">紅色字體</font>
 
 ``` html
 <p>test</p>
