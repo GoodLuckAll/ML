@@ -14,8 +14,6 @@
 
 ## This is a Blue Heading
 
-Definition listIs something people use sometimes. 紅色字體Markdown in HTMLDoes \*not\* work \*\*very\*\* well. Use HTML _tags_.
-
   
 h1 {  
     font-size: 40px;  
@@ -84,6 +82,10 @@ This text is
 This text is
 
 This text is
+
+&lt;font color="red"&gt;紅色字體&lt;/font&gt;
+
+&lt;span style="color:blue"&gt;some \*blue\* text&lt;/span&gt;
 
   
 body {background-color: powderblue;}  
