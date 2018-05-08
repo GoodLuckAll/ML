@@ -56,7 +56,19 @@ Some paragraph text.
 
 
 
+```text
+這沒有置中
+<center>這有置中</center>
+<font color="red">紅色字體</font>
+```
+
+```text
+<span style="color:blue">some *blue* text</span>
+```
+
 &lt;font color="red"&gt; RED &lt;/font&gt;
+
+&lt;span style='
 
 ```markup
 <p>test</p>
