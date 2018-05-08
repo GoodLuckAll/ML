@@ -1,4 +1,6 @@
-# Lecture 1: The Learning Problem
+# Lecture 2: Learning to Answer Yes/No
+
+## First Chapter
 
 ## Lecture 1: The Learning Problem
 
@@ -45,18 +47,6 @@ This is another paragraph.
 Some paragraph text.
 
 讓我變成藍色的字 紅色字體
-
-
-
-
-
-```markup
-<font color="red">紅色字體</font>
-```
-
-
-
-&lt;font color="red"&gt; RED &lt;/font&gt;
 
 ```markup
 <p>test</p>
