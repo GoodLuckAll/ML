@@ -44,7 +44,7 @@ Some paragraph text.
 
 讓我變成藍色的字 紅色字體
 
-
+&lt;font color="\#4590a3" size = "6px"&gt;文字&lt;/font&gt;
 
 
 
