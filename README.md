@@ -64,6 +64,16 @@ Some paragraph text.
 <span style="color:blue">some *blue* text</span>
 ```
 
+
+
+
+
+```text
+<html>
+<font color="red"> RED </font>
+</html>
+```
+
 &lt;font color="red"&gt; RED &lt;/font&gt;
 
 &lt;span style='
