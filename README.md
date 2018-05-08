@@ -6,7 +6,7 @@
 
 * **story-like:**
   * When
-  * 
+  * &lt;font color=blue&gt;蓝色字体&lt;/font&gt;
 
 ## Hello World
 
