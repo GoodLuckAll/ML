@@ -3,7 +3,7 @@
 ### **Foundation Oriented ML Course**
 
 * Story-like:
-  * **When **Can Machines Learn? \(illustrative + technical\)
+  * **When** Can Machines Learn? \(illustrative + technical\)
   * **Why** Can Machines Learn? \(theoretical + illustrative\)
   * **How** Can Machines Learn? \(technical + practical\)
   * How Can Machines Learn **Better**? \(practical + theoretical\)
