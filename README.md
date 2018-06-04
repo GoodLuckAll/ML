@@ -1,3 +1,18 @@
-# My Awesome Book
+# Lecture 1: The Learning Problem
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## **Foundation Oriented ML Course**
+
+* Story-like:
+
+  * **When **Can Machines Learn? \(illustrative + technical\)
+
+  * **Why **Can Machines Learn? \(theoretical + illustrative\)
+
+  * **How **Can Machines Learn? \(technical + practical\)
+
+  * How Can Machines Learn **Better**? \(practical + theoretical\)
+
+## From Learning to Machine Learning
+
+
+
