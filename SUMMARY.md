@@ -1,4 +1,6 @@
-# Table of contents
+# Summary
 
-* [Lecture 1: The Learning Problem](README.md)
+* [Lecture 1](README.md)
+* [Lecture 2](chapter1.md)
+* [Lecture 3](lecture-3.md)
 

@@ -1,56 +1,64 @@
 # Lecture 1: The Learning Problem
 
-### **Foundation Oriented ML Course**
+## **Foundation Oriented ML Course**
 
 * Story-like:
-  * **When** Can Machines Learn? \(illustrative + technical\)
-  * **Why** Can Machines Learn? \(theoretical + illustrative\)
-  * **How** Can Machines Learn? \(technical + practical\)
+
+  * **When **Can Machines Learn? \(illustrative + technical\)
+
+  * **Why **Can Machines Learn? \(theoretical + illustrative\)
+
+  * **How **Can Machines Learn? \(technical + practical\)
+
   * How Can Machines Learn **Better**? \(practical + theoretical\)
 
-### From Learning to Machine Learning
+## From Learning to Machine Learning
 
-![Learning &amp; Machine Learning](.gitbook/assets/screenshot-at-2018-05-13-22-20-02.png)
+###### ![](/assets/Screenshot at 2018-05-13 22:20:02.png)                             
 
-### The Machine Learning Route
+######                                                                                        Learning & Machine Learning
 
-ML: an **alternative route** to build complicated systems
+## The Machine Learning Route
 
-#### Some Use Scenarios
+ML: an **alternative route **to build complicated systems
+
+**Some Use Scenarios**
 
 * when human cannot program the system manually
 
-  -&gt; _navigating on Mars_
+        -&gt; _navigating on Mars_
 
 * when human cannot ‘define the solution’ easily
 
-  -&gt; _speech/visual recognition_
+        -&gt; _speech/visual recognition_
 
 * when needing rapid decisions that humans cannot do
 
-  -&gt; _high-frequency trading_
+        -&gt; _high-frequency trading_
 
 * when needing to be user-oriented in a massive scale
 
-  -&gt; _consumer-targeted marketing_
+        -&gt; _consumer-targeted marketing_
 
-### Key Essence of Machine Learning
+## Key Essence of Machine Learning
 
-input:  \(customer application\) 
+input: \(customer application\)
 
-![improved performance measure](.gitbook/assets/screenshot-at-2018-05-13-22-35-13.png)
+###### ![](/assets/Screenshot at 2018-05-13 22:35:13.png)                  
 
-![pattern &amp; data](.gitbook/assets/screenshot-at-2018-05-13-22-38-12.png)
+######                                                                               improved performance measure
 
-### ML Example \(Education\)
+###### ![](/assets/Screenshot at 2018-05-13 22:38:12.png)      
 
-![ML example](.gitbook/assets/screenshot-at-2018-05-13-22-42-24.png)
+######                                                                                           pattern & data
 
-### Formalize the Learning Problem
+## ML Example \(Education\)
 
-```text
-$$ a+b = c $$
-```
+![](/assets/Screenshot at 2018-05-13 22:42:24.png)
+
+######                                                                                                ML example
+
+## Formalize the Learning Problem
 
 
 
