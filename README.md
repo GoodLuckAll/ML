@@ -1,4 +1,4 @@
-# Lecture 1
+# Machine Learning Foundations
 
 ## **Foundation Oriented ML Course**
 
@@ -10,7 +10,7 @@
 
 ## From Learning to Machine Learning
 
-### ![](.gitbook/assets/screenshot-at-2018-05-13-22-20-02%20%281%29.png)
+### ![](.gitbook/assets/screenshot-at-2018-05-13-22-20-02%20%282%29.png)
 
 ### Learning & Machine Learning
 
@@ -48,7 +48,7 @@ ML: an **alternative route** to build complicated systems
 
 input: \(customer application\)
 
-### ![](.gitbook/assets/screenshot-at-2018-05-13-22-35-13%20%281%29.png)
+### ![](.gitbook/assets/screenshot-at-2018-05-13-22-35-13%20%282%29.png)
 
 ### improved performance measure
 
