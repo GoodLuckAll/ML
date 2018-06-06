@@ -8,9 +8,9 @@
 
 ![](.gitbook/assets/screenshot-at-2018-06-06-21-14-31.png)
 
-## Perceptrons in 2D
+## Perceptrons in 2D Plane
 
 ![](.gitbook/assets/screenshot-at-2018-06-06-21-19-11.png)
 
-## Select  from Hypothesis Set
+## Select Hypothesis from Hypothesis Set
 
