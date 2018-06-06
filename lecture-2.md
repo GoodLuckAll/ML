@@ -58,7 +58,7 @@ ML: an **alternative route** to build complicated systems
 
 ![target function &amp; hypothesis](.gitbook/assets/screenshot-at-2018-06-05-22-23-47.png)
 
-![Learning Model](.gitbook/assets/screenshot-at-2018-06-05-22-33-00.png)
+![Learning Model](.gitbook/assets/screenshot-at-2018-06-06-21-47-28.png)
 
 ## Summary
 
